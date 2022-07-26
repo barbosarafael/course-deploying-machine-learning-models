@@ -1,6 +1,6 @@
 # Curso de deploy de modelos de Machine Learning 
 
-Curso de deploy de modelos de machine learning. Pode ser encontrado nesse (link)[https://www.udemy.com/course/deployment-of-machine-learning-models/]
+Curso de deploy de modelos de machine learning. Pode ser encontrado nesse [link](https://www.udemy.com/course/deployment-of-machine-learning-models/)
 
 # Anotações pessoais
 
